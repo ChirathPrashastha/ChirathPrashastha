@@ -1,6 +1,6 @@
 <img align="left" width="240" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp"> 
 <samp>
-✨ hi! <br>
+✨ Hola <br>
 👩🏼‍💻 I am an Undergraduate in CS<br> 
 🌁 Based in Sri Lanka, Downsouth <br>
 🛸 Hobbies: Music and Games<br>
